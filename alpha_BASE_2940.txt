@@ -1,4 +1,2 @@
 created from local
 new line added
-a add line
-b added after conflict
